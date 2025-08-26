@@ -16,7 +16,7 @@ The scenario involved a multimedia company impacted by a flood of ICMP packets. 
 
 Download the full incident report here:
 
- [NIST_CSF_Network_Incident_Report.pdf](./NIST_CSF_Network_Incident_Report.pdf)
+ [NIST_CSF_Network_Incident_Report.pdf](./NIST_CSF_Network_Incident_Report_pdf.pdf)
 
 ---
 
